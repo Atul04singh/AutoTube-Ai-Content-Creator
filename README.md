@@ -29,18 +29,24 @@ Copy code
 
 ## 🚀 Quick Start
 
-# 1. pehele virtual env banana
+- 1. pehele virtual env banana
 
-# 2. phir .\venv\Scripts\activate
+- 2. phir .\venv\Scripts\activate
 
-# 3. phir requirements.txt ko usme download karna
+- 3. phir requirements.txt ko usme download karna
 
-# every time you start terminal
+- every time you start terminal
 
-.\venv\Scripts\activate
+- .\venv\Scripts\activate
 
-run launcher.py
-
+- run launcher.py
+---
+## ☺️Output 
+- as the file is too big for github to display you can download the opt from here
+- https://github.com/Atul04singh/AutoTube-Ai-Content-Creator/tree/main/AutoTube%20AI%20Youtube%20Content%20Creator/output
+---
+##Note
+- we have use browser tts to make sure our project works offline You can use elevenlabs etc for better audio opt 
 ---
 🫶 Contribution
 Feel free to fork, star ⭐, or submit PRs.
