@@ -1,6 +1,3 @@
-# AutoTube-Ai-Content-Creator
-
-
 # 🎬 AutoTube AI — YouTube Shorts& Content Generator
 
 Welcome to **AutoTube AI** — your personal AI-powered pipeline that auto-generates engaging YouTube Shorts using AI scripting, text-to-speech, image generation, and video compilation. One click and boom 💥 — your short is ready!
